@@ -95,6 +95,7 @@
 - [Trail of Bits Security Skills](https://github.com/trailofbits/skills) by [Trail of Bits](https://github.com/trailofbits) - A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis across codebases, fix verification, and differential code review.
 - [TÂCHES Claude Code Resources](https://github.com/glittercowboy/taches-cc-resources) by [TÂCHES](https://github.com/glittercowboy) - A well-balanced, "down-to-Earth" set of sub agents, skills, and commands,  that are well-organized, easy to read, and a healthy focus on "meta"-skills/agents, like "skill-auditor", hook creation, etc. - the kind of things you can adapt to your workflow, and not the other way around.
 - [Web Assets Generator Skill](https://github.com/alonw0/web-asset-generator) by [Alon Wolenitz](https://github.com/alonw0) - Easily generate web assets from Claude Code including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Handles image resizing, text-to-image generation, emojis, and provides proper HTML meta tags.
+- [Character AI Bots](https://github.com/lincyang720/character-ai-bots) by [lincyang720](https://github.com/lincyang720) - Discover AI roleplay character bots across 104+ characters, 8 personality types (yandere, tsundere, vampire, fantasy, romance, action, sci-fi, creative), and multiple platforms. Useful for entertainment and chatbot-related projects.
 
 <br>
 
