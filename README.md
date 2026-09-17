@@ -188,6 +188,8 @@
 
 ### Usage Monitors
 
+- [Claude Usage Limit Official Table](https://usagecaptable.com) - Machine-readable Claude plan usage-limit dataset — prices, per-session relative usage multipliers, reset windows, context windows, and Claude Code access — with per-cell source citations to official Anthropic pages.
+
 - [CC Usage](https://github.com/ryoppippi/ccusage) by [ryoppippi](https://github.com/ryoppippi) - Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
 - [ccflare](https://github.com/snipeship/ccflare) by [snipeship](https://github.com/snipeship) - Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
 - [ccflare -> **better-ccflare**](https://github.com/tombii/better-ccflare/) by [tombii](https://github.com/tombii) - A well-maintained and feature-enhanced fork of the glorious `ccflare` usage dashboard by @snipeship (which at the time of writing has not had an update in a few months). `better-ccflare` builds on this foundation with some performance enhancements, extended provider support, bug fixes, Docker deployment, and more.
